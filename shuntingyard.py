@@ -1,6 +1,6 @@
 '''
 First, a little bit of context:
-Shunting yard algorithm is an algorithm devised by Esdger Dijkstra for converting ordinary infix mathematical operators into postfix (or RPN, the acronym for Reverse Polish Notation).
+Shunting yard algorithm is an algorithm devised by Edsger Dijkstra for converting ordinary infix mathematical operators into postfix (or RPN, the acronym for Reverse Polish Notation).
 For example, you would 
 This algorithm makes it easier for machines to calculate math operations since it's closer to machine language. In fact, HP used it in its earliest calculators in the 70s (e.g. HP-35 and HP-45).
 It also eliminates the need for brackets, since 
