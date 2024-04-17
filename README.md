@@ -9,6 +9,6 @@ This algorithm makes it easier for machines to calculate math operations since i
 
 Of course it's way more intuitive and easier for everyone to write math expressions in infix, but shunting yard is waaaaay too intriguing to ignore :) ... and so I made this implementation. Keep in mind, I'm still a CS/DS Major college freshman, and I didn't try to implement more complex data types than lists, soooo this is a very basic implementation for now.
 
-> [!IMPORTANT]
+> [!TIP]
 > Read this guide on how the algorithm functions first: https://mathcenter.oxford.emory.edu/site/cs171/shuntingYardAlgorithm/
 > Don't worry, I'll try to guide you through the code comments as much as I can. Enjoy!
