@@ -57,6 +57,8 @@ numerictag = ("".join(testlist)).isnumeric()
 for i in post:
     if i != "":
         print(i, end = " ")
+    else:
+        post.remove(i)
 print()
 
 # now, we can calculate any detected valid numeric expression after its numeric evaluation
